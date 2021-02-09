@@ -1,1 +1,1 @@
-# intropython udated to tech1
+# intropython udated to tech for updatereadme
