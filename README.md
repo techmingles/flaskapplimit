@@ -1,1 +1,1 @@
-# intropython
+# intropython udated to tech1
